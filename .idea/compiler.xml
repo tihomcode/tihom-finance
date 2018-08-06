@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="api" />
+        <module name="entity" />
+        <module name="manager" />
+        <module name="quartz" />
+        <module name="seller" />
+        <module name="swagger" />
+        <module name="util" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="api" target="1.8" />
+      <module name="entity" target="1.8" />
+      <module name="manager" target="1.8" />
+      <module name="quartz" target="1.8" />
+      <module name="seller" target="1.8" />
+      <module name="swagger" target="1.8" />
+      <module name="tihom-finance" target="1.8" />
+      <module name="util" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,1128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="153af2ae-2e95-4ba5-b26f-ea6fd380a93d" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/util/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/manager/target/" />
+    <ignored path="$PROJECT_DIR$/api/target/" />
+    <ignored path="$PROJECT_DIR$/swagger/target/" />
+    <ignored path="$PROJECT_DIR$/seller/target/" />
+    <ignored path="$PROJECT_DIR$/entity/target/" />
+    <ignored path="$PROJECT_DIR$/quartz/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="DataAccessConfiguration.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/seller/src/main/java/com/tihom/seller/configuration/DataAccessConfiguration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="500">
+              <caret line="125" column="5" lean-forward="true" selection-start-line="125" selection-start-column="5" selection-end-line="125" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RepositoryConfigurationDelegate.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/seller/src/main/java/org/springframework/data/repository/config/RepositoryConfigurationDelegate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="88" column="59" lean-forward="true" selection-start-line="88" selection-start-column="59" selection-end-line="88" selection-end-column="59" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RepositoryBeanNamePrefix.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/seller/src/main/java/org/springframework/data/repository/config/RepositoryBeanNamePrefix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" selection-start-line="5" selection-end-line="17" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VerifyRepository.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/seller/src/main/java/com/tihom/seller/repositorybackup/VerifyRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1150">
+              <caret line="50" column="7" selection-start-line="50" selection-start-column="7" selection-end-line="50" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="backupOrderRepoistory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/seller/src/main/java/com/tihom/seller/repositorybackup/backupOrderRepoistory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="HTML File" />
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>backUp</find>
+    </findStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="E:/WinWorkPackage/ima/new-star-blog-master" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/manager/src/main/java/com/tihom/manager/ManagerApp.java" />
+        <option value="$PROJECT_DIR$/swagger/src/main/java/com/tihom/swagger/SwaggerConfiguration.java" />
+        <option value="$PROJECT_DIR$/swagger/pom.xml" />
+        <option value="$PROJECT_DIR$/swagger/src/main/java/com/tihom/swagger/SwaggerInfo.java" />
+        <option value="$PROJECT_DIR$/manager/pom.xml" />
+        <option value="$PROJECT_DIR$/api/src/main/java/com/tihom/api/ProductRpc.java" />
+        <option value="$PROJECT_DIR$/seller/src/main/java/com/tihom/seller/configuration/RpcConfiguration.java" />
+        <option value="$PROJECT_DIR$/util/src/main/java/com/tihom/util/configuration/JsonRpcConfiguration.java" />
+        <option value="$PROJECT_DIR$/util/src/main/resources/META-INF/spring.factories" />
+        <option value="$PROJECT_DIR$/manager/src/main/java/com/tihom/manager/service/ProductService.java" />
+        <option value="$PROJECT_DIR$/api/pom.xml" />
+        <option value="$PROJECT_DIR$/manager/src/main/java/com/tihom/manager/rpc/ProductRpcImpl.java" />
+        <option value="$PROJECT_DIR$/seller/src/main/resources/hazelcast.xml" />
+        <option value="$PROJECT_DIR$/manager/src/main/java/com/tihom/manager/configuration/RpcConfiguration.java" />
+        <option value="$PROJECT_DIR$/seller/src/main/java/com/tihom/seller/HazelcastMapTest.java" />
+        <option value="$PROJECT_DIR$/seller/src/main/java/com/tihom/seller/service/ProductCache.java" />
+        <option value="$PROJECT_DIR$/api/src/main/java/com/tihom/api/events/ProductStatusEvent.java" />
+        <option value="$PROJECT_DIR$/manager/src/main/java/com/tihom/manager/service/ProductStatusManager.java" />
+        <option value="$PROJECT_DIR$/api/src/main/java/com/tihom/api/domain/ParamInf.java" />
+        <option value="$PROJECT_DIR$/api/src/main/java/com/tihom/api/domain/ProductRpcReq.java" />
+        <option value="$PROJECT_DIR$/util/src/main/java/com/tihom/util/RSAUtil.java" />
+        <option value="$PROJECT_DIR$/seller/src/main/java/com/tihom/seller/repositories/OrderRepository.java" />
+        <option value="$PROJECT_DIR$/seller/src/main/java/com/tihom/seller/controller/ProductController.java" />
+        <option value="$PROJECT_DIR$/seller/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/util/pom.xml" />
+        <option value="$PROJECT_DIR$/entity/src/main/java/com/tihom/entity/Product.java" />
+        <option value="$PROJECT_DIR$/manager/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/seller/src/main/java/com/tihom/seller/service/OrderService.java" />
+        <option value="$PROJECT_DIR$/seller/src/main/java/com/tihom/seller/sign/SignAop.java" />
+        <option value="$PROJECT_DIR$/seller/src/main/java/com/tihom/seller/controller/OrderController.java" />
+        <option value="$PROJECT_DIR$/seller/src/main/java/com/tihom/seller/sign/SignText.java" />
+        <option value="$PROJECT_DIR$/seller/src/main/java/com/tihom/seller/service/SignService.java" />
+        <option value="$PROJECT_DIR$/util/src/test/java/com/tihom/util/RSAUtilTest.java" />
+        <option value="$PROJECT_DIR$/seller/src/main/java/com/tihom/seller/params/OrderParam.java" />
+        <option value="$PROJECT_DIR$/seller/src/test/java/VerifyTest.java" />
+        <option value="$PROJECT_DIR$/seller/src/main/java/com/tihom/seller/service/ProductRpcService.java" />
+        <option value="$PROJECT_DIR$/seller/src/main/java/com/tihom/seller/repositories/VerifyRepository.java" />
+        <option value="$PROJECT_DIR$/seller/src/main/java/com/tihom/seller/SellerApp.java" />
+        <option value="$PROJECT_DIR$/seller/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/seller/src/main/java/com/tihom/seller/repositorybackup/VerifyRepository.java" />
+        <option value="$PROJECT_DIR$/entity/src/main/java/com/tihom/entity/Order.java" />
+        <option value="$PROJECT_DIR$/entity/src/main/java/com/tihom/entity/VerificationOrder.java" />
+        <option value="$PROJECT_DIR$/seller/src/test/java/com/tihom/seller/VerifyTest.java" />
+        <option value="$PROJECT_DIR$/seller/src/main/java/com/tihom/seller/service/VerifyService.java" />
+        <option value="$PROJECT_DIR$/seller/src/main/java/com/tihom/seller/enums/ChanEnum.java" />
+        <option value="$PROJECT_DIR$/seller/src/main/java/com/tihom/seller/task/VerifyTask.java" />
+        <option value="$PROJECT_DIR$/seller/src/main/java/org/springframework/data/repository/config/RepositoryBeanNamePrefix.java" />
+        <option value="$PROJECT_DIR$/seller/src/main/java/org/springframework/data/repository/config/RepositoryConfigurationDelegate.java" />
+        <option value="$PROJECT_DIR$/seller/src/main/java/com/tihom/seller/configuration/DataAccessConfiguration.java" />
+        <option value="$PROJECT_DIR$/seller/src/main/java/com/tihom/seller/repositorybackup/backupOrderRepoistory.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="32" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="tihom-finance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tihom-finance" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tihom-finance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tihom-finance" type="462c0819:PsiDirectoryNode" />
+              <item name="seller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tihom-finance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tihom-finance" type="462c0819:PsiDirectoryNode" />
+              <item name="seller" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tihom-finance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tihom-finance" type="462c0819:PsiDirectoryNode" />
+              <item name="seller" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tihom-finance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tihom-finance" type="462c0819:PsiDirectoryNode" />
+              <item name="seller" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tihom-finance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tihom-finance" type="462c0819:PsiDirectoryNode" />
+              <item name="seller" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="seller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tihom-finance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tihom-finance" type="462c0819:PsiDirectoryNode" />
+              <item name="seller" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="seller" type="462c0819:PsiDirectoryNode" />
+              <item name="configuration" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tihom-finance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tihom-finance" type="462c0819:PsiDirectoryNode" />
+              <item name="seller" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="seller" type="462c0819:PsiDirectoryNode" />
+              <item name="repositories" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tihom-finance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tihom-finance" type="462c0819:PsiDirectoryNode" />
+              <item name="seller" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="seller" type="462c0819:PsiDirectoryNode" />
+              <item name="repositorybackup" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tihom-finance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tihom-finance" type="462c0819:PsiDirectoryNode" />
+              <item name="seller" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tihom-finance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tihom-finance" type="462c0819:PsiDirectoryNode" />
+              <item name="seller" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tihom-finance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tihom-finance" type="462c0819:PsiDirectoryNode" />
+              <item name="seller" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tihom-finance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tihom-finance" type="462c0819:PsiDirectoryNode" />
+              <item name="seller" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tihom-finance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tihom-finance" type="462c0819:PsiDirectoryNode" />
+              <item name="seller" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="seller" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="SearchEverywhereHistoryKey" value="JpaB&#9;FILE&#9;jar://C:/Users/Administrator/.m2/repository/org/springframework/boot/spring-boot-autoconfigure/1.5.15.RELEASE/spring-boot-autoconfigure-1.5.15.RELEASE.jar!/org/springframework/boot/autoconfigure/orm/jpa/JpaBaseConfiguration.class&#10;Prod&#9;FILE&#9;file://E:/project/tihom-finance/manager/src/main/java/com/tihom/manager/rpc/ProductRpcImpl.java&#10;errormvc&#9;FILE&#9;jar://C:/Users/Administrator/.m2/repository/org/springframework/boot/spring-boot-autoconfigure/1.5.15.RELEASE/spring-boot-autoconfigure-1.5.15.RELEASE.jar!/org/springframework/boot/autoconfigure/web/ErrorMvcAutoConfiguration.class" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Hello" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="show.run.dashboard.notification" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\project\tihom-finance\util\src\main\resources" />
+      <recent name="E:\project\tihom-finance\manager\src\main\resources\static" />
+      <recent name="E:\project\tihom-finance\manager\src\main\java\com\tihom\manager" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.tihom.entity" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\project\tihom-finance\swagger\src\main\resources\META-INF\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.VerifyTest.queryOrder">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="VerifyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="seller" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tihom.seller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.tihom.seller" />
+      <option name="MAIN_CLASS_NAME" value="com.tihom.seller.VerifyTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="VerifyTest.makeVerificationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="seller" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tihom.seller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.tihom.seller" />
+      <option name="MAIN_CLASS_NAME" value="com.tihom.seller.VerifyTest" />
+      <option name="METHOD_NAME" value="makeVerificationTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="VerifyTest.queryOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="seller" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tihom.seller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.tihom.seller" />
+      <option name="MAIN_CLASS_NAME" value="com.tihom.seller.VerifyTest" />
+      <option name="METHOD_NAME" value="queryOrder" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="VerifyTest.saveVerificationOrders" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="seller" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tihom.seller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.tihom.seller" />
+      <option name="MAIN_CLASS_NAME" value="com.tihom.seller.VerifyTest" />
+      <option name="METHOD_NAME" value="saveVerificationOrders" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="VerifyTest.verifyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="seller" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tihom.seller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.tihom.seller" />
+      <option name="MAIN_CLASS_NAME" value="com.tihom.seller.VerifyTest" />
+      <option name="METHOD_NAME" value="verifyTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="ManagerApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="manager" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tihom.manager.ManagerApp" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.ManagerApp" />
+      <item itemvalue="JUnit.VerifyTest.makeVerificationTest" />
+      <item itemvalue="JUnit.VerifyTest" />
+      <item itemvalue="JUnit.VerifyTest.saveVerificationOrders" />
+      <item itemvalue="JUnit.VerifyTest.verifyTest" />
+      <item itemvalue="JUnit.VerifyTest.queryOrder" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.VerifyTest.queryOrder" />
+        <item itemvalue="JUnit.VerifyTest.makeVerificationTest" />
+        <item itemvalue="JUnit.VerifyTest.verifyTest" />
+        <item itemvalue="JUnit.VerifyTest.saveVerificationOrders" />
+        <item itemvalue="JUnit.VerifyTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_NON_PUBLIC" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="153af2ae-2e95-4ba5-b26f-ea6fd380a93d" name="Default" comment="" />
+      <created>1533108672783</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533108672783</updated>
+      <workItem from="1533108676588" duration="2162000" />
+      <workItem from="1533111671631" duration="68089000" />
+      <workItem from="1533346976552" duration="25763000" />
+      <workItem from="1533432689322" duration="25188000" />
+      <workItem from="1533530049635" duration="8075000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="VerifyTest_saveVerificationOrders - 2018.08.05 at 13h 19m 34s.xml">
+      <configuration name="VerifyTest.saveVerificationOrders" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VerifyTest_verifyTest - 2018.08.05 at 14h 06m 40s.xml">
+      <configuration name="VerifyTest.verifyTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VerifyTest_verifyTest - 2018.08.05 at 14h 08m 06s.xml">
+      <configuration name="VerifyTest.verifyTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VerifyTest_verifyTest - 2018.08.05 at 14h 08m 52s.xml">
+      <configuration name="VerifyTest.verifyTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VerifyTest_queryOrder - 2018.08.05 at 16h 58m 20s.xml">
+      <configuration name="VerifyTest.queryOrder" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VerifyTest_makeVerificationTest - 2018.08.05 at 16h 59m 07s.xml">
+      <configuration name="VerifyTest.makeVerificationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VerifyTest_makeVerificationTest - 2018.08.05 at 16h 59m 56s.xml">
+      <configuration name="VerifyTest.makeVerificationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VerifyTest_makeVerificationTest - 2018.08.05 at 17h 01m 03s.xml">
+      <configuration name="VerifyTest.makeVerificationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VerifyTest_queryOrder - 2018.08.05 at 17h 01m 32s.xml">
+      <configuration name="VerifyTest.queryOrder" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VerifyTest_queryOrder - 2018.08.05 at 17h 03m 17s.xml">
+      <configuration name="VerifyTest.queryOrder" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="129277000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="32" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="9" weight="0.32975295" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info id="Structure" order="1" sideWeight="0.5005562" side_tool="true" weight="0.20300752" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.39933258" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Java Enterprise" order="15" weight="0.32925472" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.22803114" />
+      <window_info anchor="bottom" id="Spring" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49944383" visible="true" weight="0.21106337" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="13" />
+      <window_info anchor="right" id="Bean Validation" order="8" weight="0.32975295" />
+      <window_info id="Web" order="6" sideWeight="0.5005562" side_tool="true" weight="0.17669173" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="14" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32925472" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24973147" />
+      <window_info anchor="bottom" id="Find" order="2" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="14" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="932">
+          <caret line="94" column="11" lean-forward="true" selection-start-line="94" selection-start-column="11" selection-end-line="94" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seller/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="610">
+          <caret line="27" column="37" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swagger/src/main/java/com/tihom/swagger/EnableMySwagger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swagger/src/main/resources/META-INF/spring.factories">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="80" selection-start-column="80" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manager/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" column="43" lean-forward="true" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manager/src/main/java/com/tihom/manager/controller/ProductController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-897">
+          <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manager/src/main/java/com/tihom/manager/rpc/ProductRpcImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="48" column="44" lean-forward="true" selection-start-line="48" selection-start-column="44" selection-end-line="48" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manager/src/main/java/com/tihom/manager/service/ProductService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="85" column="5" lean-forward="true" selection-start-line="85" selection-start-column="5" selection-end-line="85" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manager/src/main/java/com/tihom/manager/service/ProductStatusManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="29" column="65" lean-forward="true" selection-start-line="29" selection-start-column="65" selection-end-line="29" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swagger/src/main/java/com/tihom/swagger/SwaggerInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swagger/src/main/java/com/tihom/swagger/SwaggerConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="35" column="53" lean-forward="true" selection-start-line="35" selection-start-column="53" selection-end-line="35" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seller/src/main/java/com/tihom/seller/controller/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/src/test/java/com/tihom/util/RSAUtilTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="31" column="190" selection-start-line="31" selection-start-column="190" selection-end-line="31" selection-end-column="190" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seller/src/test/java/VerifyTest.java" />
+    <entry file="file://$PROJECT_DIR$/manager/src/test/java/com/tihom/manager/controller/ProductControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="32" selection-start-line="32" selection-end-line="34" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seller/src/main/java/com/tihom/seller/service/OrderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="592">
+          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seller/src/main/java/com/tihom/seller/service/ProductRpcService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="52" column="23" selection-start-line="52" selection-start-column="23" selection-end-line="52" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seller/src/main/java/com/tihom/seller/service/SignService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" column="55" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seller/src/main/java/com/tihom/seller/service/ProductCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seller/src/main/java/com/tihom/seller/configuration/RpcConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seller/src/main/java/com/tihom/seller/sign/SignText.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="60" lean-forward="true" selection-start-line="12" selection-start-column="60" selection-end-line="12" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seller/src/main/java/com/tihom/seller/sign/SignAop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seller/src/main/java/com/tihom/seller/params/OrderParam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="736">
+          <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/text/DateFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="342" column="24" selection-start-line="342" selection-start-column="24" selection-end-line="342" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/entity/src/main/java/com/tihom/entity/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/entity/src/main/java/com/tihom/entity/VerificationOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="30" column="26" lean-forward="true" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/entity/src/main/java/com/tihom/entity/enums/ProductStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/entity/src/main/java/com/tihom/entity/enums/OrderType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/entity/src/main/java/com/tihom/entity/enums/OrderStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/entity/src/main/java/com/tihom/entity/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="28" column="42" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seller/src/main/java/com/tihom/seller/enums/ChanEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="65" selection-start-line="12" selection-start-column="65" selection-end-line="12" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seller/src/test/java/com/tihom/seller/VerifyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="897">
+          <caret line="51" column="9" selection-start-line="16" selection-end-line="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seller/src/main/java/com/tihom/seller/task/VerifyTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seller/src/main/java/com/tihom/seller/SellerApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="53" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seller/src/main/java/com/tihom/seller/service/VerifyService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="179" column="40" selection-start-line="179" selection-start-column="40" selection-end-line="179" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seller/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="6" lean-forward="true" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.15.RELEASE/spring-boot-1.5.15.RELEASE.jar!/org/springframework/boot/orm/jpa/EntityManagerFactoryBuilder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="85" column="51" selection-start-line="85" selection-start-column="51" selection-end-line="85" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.15.RELEASE/spring-boot-autoconfigure-1.5.15.RELEASE.jar!/org/springframework/boot/autoconfigure/orm/jpa/JpaBaseConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="100" column="52" selection-start-line="100" selection-start-column="52" selection-end-line="100" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.15.RELEASE/spring-boot-autoconfigure-1.5.15.RELEASE.jar!/org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaAutoConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.15.RELEASE/spring-boot-autoconfigure-1.5.15.RELEASE.jar!/org/springframework/boot/autoconfigure/data/jpa/JpaRepositoriesAutoConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="30" column="31" lean-forward="true" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.15.RELEASE/spring-boot-autoconfigure-1.5.15.RELEASE.jar!/org/springframework/boot/autoconfigure/data/jpa/JpaRepositoriesAutoConfigureRegistrar.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="29" column="18" lean-forward="true" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.13.14.RELEASE/spring-data-commons-1.13.14.RELEASE.jar!/org/springframework/data/repository/config/RepositoryBeanDefinitionRegistrarSupport.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="41" column="34" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.13.14.RELEASE/spring-data-commons-1.13.14.RELEASE.jar!/org/springframework/data/repository/config/RepositoryConfigurationDelegate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="605">
+          <caret line="96" column="5" lean-forward="true" selection-start-line="26" selection-start-column="4" selection-end-line="96" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/1.11.14.RELEASE/spring-data-jpa-1.11.14.RELEASE.jar!/org/springframework/data/jpa/repository/config/JpaRepositoriesRegistrar.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="11" column="69" lean-forward="true" selection-start-line="11" selection-start-column="69" selection-end-line="11" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/1.11.14.RELEASE/spring-data-jpa-1.11.14.RELEASE.jar!/org/springframework/data/jpa/repository/config/EnableJpaRepositories.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="23" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seller/src/main/java/com/tihom/seller/repositories/OrderRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seller/src/main/java/com/tihom/seller/repositorybackup/backupOrderRepoistory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seller/src/main/java/com/tihom/seller/repositorybackup/VerifyRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1150">
+          <caret line="50" column="7" selection-start-line="50" selection-start-column="7" selection-end-line="50" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seller/src/main/java/com/tihom/seller/configuration/DataAccessConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="125" column="5" lean-forward="true" selection-start-line="125" selection-start-column="5" selection-end-line="125" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seller/src/main/java/org/springframework/data/repository/config/RepositoryBeanNamePrefix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" selection-start-line="5" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seller/src/main/java/org/springframework/data/repository/config/RepositoryConfigurationDelegate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="88" column="59" lean-forward="true" selection-start-line="88" selection-start-column="59" selection-end-line="88" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>seller</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

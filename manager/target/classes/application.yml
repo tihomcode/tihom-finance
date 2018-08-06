@@ -1,0 +1,24 @@
+spring:
+  jackson:
+    date-format: yyyy-MM-dd HH:mm:ss
+    time-zone: GMT+8
+  datasource:
+    url: jdbc:mysql://localhost:3306/manager?useUnicode=true&useSSL=false&characterEncoding=utf-8
+    username: root
+    password: 616922
+  jpa:
+    show-sql: true
+  activemq:
+    broker-url: tcp://127.0.0.1:61616
+  jms:
+    pub-sub-domain: true # 生产者是topic的,所以要为true
+server:
+  context-path: /manager
+  port: 8081
+swagger:
+  groupName: manager
+  basePackage: com.tihom.manager.controller
+
+logging:
+  level:
+    com.googlecode.jsonrpc4j: debug

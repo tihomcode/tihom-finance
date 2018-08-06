@@ -1,0 +1,31 @@
+server:
+  context-path: /seller
+  port: 8082
+spring:
+  datasource:
+    primary:
+      url: jdbc:mysql://localhost:3306/seller?useUnicode=true&useSSL=false&characterEncoding=utf-8
+      username: root
+      password: 616922
+    backup:
+      url: jdbc:mysql://localhost:3306/seller_backup?useUnicode=true&useSSL=false&characterEncoding=utf-8
+      username: root
+      password: 616922
+  jpa:
+    show-sql: true
+  cache:
+    type: hazelcast
+  activemq:
+    broker-url: tcp://127.0.0.1:61616
+    packages:
+      trust-all: true #所有包都信任
+logging:
+  level:
+    com.googlecode.jsonrpc4j: debug
+rpc:
+  client:
+    url: http://localhost:8081/manager/ #结尾记得加上/,否则会报错
+    basePackage: com.tihom.api
+swagger:
+  groupName: seller
+  basePackage: com.tihom.seller.controller
